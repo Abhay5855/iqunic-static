@@ -1,0 +1,54 @@
+
+
+.background__image{
+
+    background-image: url('../../assets/images/venkatesh.jpeg');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+.background__image2{
+
+    background-image: url('../../assets/images/abhay.JPG');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+.background__image3{
+
+    background-image: url('../../assets/images/siddhi1.jpg');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+.background__image4{
+
+    background-image: url('../../assets/images/rutuja.jpeg');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+.background__image5{
+
+    background-image: url('../../assets/images/kinjal.jpg');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
