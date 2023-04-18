@@ -29,14 +29,10 @@ const Navbar = () => {
                   </Disclosure.Button>
                 </div>
                 <div className="flex flex-shrink-0 items-center">
-                {/* <img
-                    className="hidden h-12 w-auto lg:block"
-                    src={logo}
-                    alt="Your Company"
-                  /> */}
+                
                   
                   <img
-                    className="hidden h-12 w-auto lg:block"
+                    className="h-12 w-auto lg:block"
                     src={logo}
                     alt="Your Company"
                   />
@@ -85,7 +81,7 @@ const Navbar = () => {
                 <div className="flex-shrink-0">
                   <button
                     type="button"
-                    className="relative inline-flex items-center gap-x-1.5 rounded-md bg-primary px-3 py-2 text-sm font-semibold text-white shadow-sm "
+                    className="relative xs:hidden sm:hidden inline-flex items-center gap-x-1.5 rounded-md bg-primary px-3 py-2 text-sm font-semibold text-white shadow-sm "
                   >
                     <PlusIcon className="-ml-0.5 h-5 w-5" aria-hidden="true" />
                     Get Started
